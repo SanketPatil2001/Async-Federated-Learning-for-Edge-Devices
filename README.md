@@ -14,9 +14,9 @@ This repository showcases Synchronous and Asynchronous Federated Learning (AFL) 
 4. Edge Simulation: Docker containers represent edge devices.
 5. Real-Time Visualization: Interactive GUI for monitoring performance.
 ## Project Structure
-1. sync_federated_learning/: Contains code for synchronous federated learning.
-2. async_federated_learning/: Contains code for asynchronous federated learning.
-3. gui_visualization/: Contains the GUI-based real-time plotting code.
+1. Synchronous/: Contains code for synchronous federated learning.
+2. Asynchronous/: Contains code for asynchronous federated learning.
+3. main/: Contains the GUI-based real-time plotting code of Asynchronous FL.
 ## Setup and Execution
 ### Prerequisites
 1. Python 3.8+
